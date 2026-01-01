@@ -20,25 +20,3 @@ alias rm='rm -i'                  # 删除时提示确认（重要：防止误�
 git config --global alias.acp '!f() { git add . && git commit -m "$1" && git push; }; f'
 # 2. 快速同步别名：git acpq
 git config --global alias.acpq "!git add . && git commit -m 'Quick update: $(date +'%Y-%m-%d %H:%M')' && git push"
-
-5更新同步
-（1）
-cd ~/cs-study/c-cpp
-git pull
-git acp "new: egg.c 优化逻辑"
-（2）
-cd ~/cs-study/python
-git pull
-git acp "new: egg.py 优化逻辑"
-(3)
-cd ~/cs-study/c-cpp
-git pull
-git acpq
-(4)
-cd ~/cs-study/python
-git pull
-git acpq
-(5)
-cd ~/cs-study/git-test
-git pull
-git acp "new: egg.c 优化逻辑"
