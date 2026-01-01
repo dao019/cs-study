@@ -1,0 +1,11 @@
+# C/C++ 编译产物
+c/*.out
+c/*.o
+# Python 缓存
+py/__pycache__/
+py/venv/
+# 编辑器配置
+.vscode/
+# 系统文件
+*.swp
+*.bak
