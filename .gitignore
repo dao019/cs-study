@@ -1,11 +1,25 @@
 # C/C++ 编译产物
-c/*.out
-c/*.o
+c-cpp/*.o
+c-cpp/*.out
+c-cpp/hello
+c-cpp/hello_cpp
+c-cpp/*.so
+c-cpp/*.dll
+
+
+# Python 虚拟环境
+python/pyenv/
+python/.env/
+
 # Python 缓存
-py/__pycache__/
-py/venv/
-# 编辑器配置
+python/__pycache__/
+python/*.py[cod]
+python/*.class
+
+
+# 通用忽略
 .vscode/
-# 系统文件
 *.swp
+*.swo
+*.log
 *.bak
