@@ -2,7 +2,7 @@
 （1）
 cd ~/cs-study
 git pull
-git acp "Add: c/egg.c 实现功能 | Modify: py/plot.py 优化逻辑"
+git acp "请填写"
 (2)
 cd ~/cs-study
 git pull
@@ -37,6 +37,7 @@ mkdir c py txt  # 创建 c、py、txt 子文件夹
 git remote add origin git@github.com:dao019/cs-study.git   # 添加远程仓库
 code .gitignore  # 过滤无用文件。
 # 用 VSCode 打开，添加以下内容
+=========================
 # C/C++ 编译产物
 c/*.out
 c/*.o
@@ -48,7 +49,7 @@ py/venv/
 # 系统文件
 *.swp
 *.bak
-
+==========================
 git add .  # 暂存所有子文件夹和 .gitignore
 git commit -m "Initial commit: 主文件夹+子文件夹结构"
 git push -u origin main  # 首次推送，关联远程分支
