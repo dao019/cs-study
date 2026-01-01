@@ -1,4 +1,4 @@
-更新
+更新 不要直接使用vs code（龟速）
 （1）
 cd ~/cs-study
 git pull
