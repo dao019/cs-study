@@ -2,14 +2,75 @@
 https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
 0.（2）【方法论】我的看书方法/学习方法/记笔记方法
 https://imageslr.com/2018/11/11/learn-methodology
-
-（在1，2，3的同时阅读《代码大全》）可参考The Linux Command Line 中文版
-1.科普向系列视频Crash Course: Computer Science
+0.（3）科普向系列视频Crash Course: Computer Science
 https://www.bilibili.com/video/BV1EW411u7th
-2.计算机导论级别的课程
-3.MIT-Missing-Semester
+
+
+（A，B，C可同时进行）
+（视频在评论区、哔哩哔哩或者YouTube找）
+A 理论基础
+1.（1）微积分课MIT Calculus Course（18.01, 18.02）
+https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/MITmaths/#_1
+配套英文教材：CALCULUS.pdf（有对照表），补充普林斯顿微积分读本
+工程相关教材：微积分及其应用和多元微积分及其应用
+1.（2）线性代数课MIT18.06: Linear Algebra
+https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/MITLA/#_1
+配套教材：线性代数导论：第五版
+工程相关教材：线性代数及其应用(第六版)
+1.（3）配套python学习
+Python科学计算和数据科学应用.pdf
+Calculus with Python
+https://github.com/Nikkex1/calculus-with-python
+Applied Calculus with Python
+https://www.coursera.org/learn/applied-calculus-with-python
+
+2.(1)离散数学、概率论入门课程UCB CS70 : discrete Math and probability theory
+2024年春季版的所有资料
+https://github.com/Kettenkrado/UCB-CS70
+2020年秋季版的所有资料
+https://github.com/PKUFlyingPig/UCB-CS70
+历届考试
+https://www.eecs70.org/resources/previous-exams
+2015年春季版视频
+https://www.bilibili.com/video/BV1gf4y1q7UY
+https://www.bilibili.com/video/BV1e1421r74V
+2012年秋季版视频
+https://www.youtube.com/watch?v=HEfu_XQo3Rw&list=PLu0nzW8Es1x0Ivn-757Za_ps090FJxOPd
+2.(2)概率论进阶课程UCB CS126 : Probability theory
+教材：EECS 应用概率论
+https://jeanwalrand.github.io/PeecsJB/intro.html
+2021年秋季学版的所有资料
+https://github.com/PKUFlyingPig/EECS126
+[概率论再进阶：哈佛的Stat110]
+
+3.数值分析：计算思维入门课ComputationalThinking（不同年份的版本）
+https://computationalthinking.mit.edu/Spring21/
+https://computationalthinking.mit.edu/Fall24/
+https://computationalthinking.mit.edu/
+[选择CSE方向补充：MIT18.330 : Introduction to numerical analysis]
+
+4.信息论入门课程MIT6.050J: Information theory and Entropy
+https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/information/#_1
+
+
+B 计算机导论与编程入门
+1.基础C语言课程：CS50: This is CS50x
+https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/C/CS50/#_1
+
+2.基础Python课程：CS50P Introduction to Programming with Python
+https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS50P/
+
+3.（1）对CSer 无比重要的工具或者知识点：MIT-Missing-Semester
 https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/
+3.（2）对CSer 无比重要的进阶工具或者知识点：UCB: Sysadmin DeCal
+https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/DeCal/#_1
+
 4.命令行的艺术
 https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+
 5.Shell 脚本编程
 https://www.shellscript.sh/
+（在3，4，5的同时可以阅读《代码大全》，也可参考The Linux Command Line 中文版）
+
+
+C 必学工具
