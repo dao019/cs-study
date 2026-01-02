@@ -1,0 +1,48 @@
+0.阅读提问的智慧这篇文章
+https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
+【方法论】我的看书方法/学习方法/记笔记方法
+https://imageslr.com/2018/11/11/learn-methodology
+（在1，2，3的同时阅读《代码大全》）可参考The Linux Command Line 中文版
+1.科普向系列视频Crash Course: Computer Science
+https://www.bilibili.com/video/BV1EW411u7th
+2.计算机导论级别的课程
+3.MIT-Missing-Semester
+https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/
+4.命令行的艺术
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+5.Shell 脚本编程
+https://www.shellscript.sh/
+
+
+如果你已经本科毕业开始读研或者走上了工作岗位，亦或是从事着其他领域的工作想要利用业余时间转码，
+那么你也许并没有充足的业余时间来系统地学完 一份仅供参考的CS学习规划里的内容，
+但又想弥补本科时期欠下的基础。考虑到这部分读者通常有一定的编程经验，
+入门课程没有必要再重复学习。而且从实用角度来说，由于工作的大体方向已经确定，
+确实没有太大必要对于每个计算机分支都有特别深入的研究，更应该侧重一些通用性的原则和技能。
+因此我结合自身经历，选取了个人感觉最重要也是质量最高的几门核心专业课，
+希望能更好地加深读者对计算机的理解。学完这些课程，无论你具体从事的是什么工作，
+我相信你将不可能沦为一个普通的调包侠，而是对计算机的底层运行逻辑有更深入的了解。
+
+课程方向	课程名
+离散数学和概率论	UCB CS70 : discrete Math and probability theory
+https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/
+数据结构与算法	Coursera: Algorithms I & II
+https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/Algo/
+软件工程	MIT 6.031: Software Construction
+https://csdiy.wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/6031/
+全栈开发	MIT web development course
+https://csdiy.wiki/Web%E5%BC%80%E5%8F%91/mitweb/
+计算机系统导论	CMU CS15213: CSAPP
+https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/CSAPP/
+体系结构入门	Coursera: Nand2Tetris
+https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/N2T/
+体系结构进阶	CS61C: Great Ideas in Computer Architecture
+https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CS61C/
+数据库原理	CMU 15-445: Introduction to Database System
+https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/15445/
+计算机网络	Computer Networking: A Top-Down Approach
+https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/topdown/
+人工智能	Harvard CS50: Introduction to AI with Python
+https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/
+深度学习	Coursera: Deep Learning
+https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS230/

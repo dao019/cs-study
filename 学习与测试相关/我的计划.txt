@@ -1,0 +1,15 @@
+0.（1）阅读《提问的智慧》
+https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
+0.（2）【方法论】我的看书方法/学习方法/记笔记方法
+https://imageslr.com/2018/11/11/learn-methodology
+
+（在1，2，3的同时阅读《代码大全》）可参考The Linux Command Line 中文版
+1.科普向系列视频Crash Course: Computer Science
+https://www.bilibili.com/video/BV1EW411u7th
+2.计算机导论级别的课程
+3.MIT-Missing-Semester
+https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/
+4.命令行的艺术
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+5.Shell 脚本编程
+https://www.shellscript.sh/
