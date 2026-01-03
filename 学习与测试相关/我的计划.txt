@@ -6,7 +6,8 @@ https://imageslr.com/2018/11/11/learn-methodology
 https://www.bilibili.com/video/BV1EW411u7th
 
 
-（A，B，C可同时进行）
+一、CS入门
+（A，B，C可同时进行，可参考2.ai总结我的A、B、C计划.xlsx）
 （视频在评论区、哔哩哔哩或者YouTube找）
 A 理论基础
 1.（1）微积分课MIT Calculus Course（18.01, 18.02）
@@ -74,3 +75,21 @@ https://www.shellscript.sh/
 
 
 C 必学工具
+1.Git/GitHub：MIT-Missing-Semester（Git 章节）+GitHub 官方文档
+https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/#git_2
+https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/GitHub/
+2.LaTeX：《LaTeX 入门》（刘海洋）+Overleaf 官方教程 + MIT 18.06 配套 LaTeX 模板
+https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/LaTeX/#latex_1
+3.Vim：MIT-Missing-Semester（Vim 章节）+《Vim 实用技巧》（精简版）
+https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Vim/
+4.GNU Make/Cmake
+https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/GNU_Make/
+https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/CMake/#cmake_2
+5.Obsidian
+https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/#_1
+
+
+基础进阶→系统深入→方向深耕
+3.ai建议编程语言选择.xlsx
+4.ai建议物理知识点补充.xlsx
+5.ai建议入门后（已完成A、B、C）详细路线.xlsx
