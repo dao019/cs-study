@@ -61,6 +61,7 @@ https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/C/CS50/#_1
 2.基础Python课程：CS50P Introduction to Programming with Python
 https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS50P/
 
+（在3，4，5的同时可以阅读《代码大全》，也可参考The Linux Command Line 中文版）
 3.（1）对CSer 无比重要的工具或者知识点：MIT-Missing-Semester
 https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/
 3.（2）对CSer 无比重要的进阶工具或者知识点：UCB: Sysadmin DeCal
@@ -71,10 +72,9 @@ https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
 
 5.Shell 脚本编程
 https://www.shellscript.sh/
-（在3，4，5的同时可以阅读《代码大全》，也可参考The Linux Command Line 中文版）
 
 
-C 必学工具
+C 必学工具（可参考6.ai总结LaTeX、Markdown、Obsidian.xlsx）
 1.Git/GitHub：MIT-Missing-Semester（Git 章节）+GitHub 官方文档
 https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/#git_2
 https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/GitHub/

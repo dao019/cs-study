@@ -1,11 +1,20 @@
-# C/C++ 编译产物
-c-cpp/*.o
-c-cpp/*.out
-c-cpp/hello
-c-cpp/hello_cpp
-c-cpp/*.so
-c-cpp/*.dll
+# 核心规则：忽略 Bash 历史记录及所有备份
+bash_history*
 
+# 忽略所有 .backup 后缀的文件（防止未来其他备份误提交）
+*.backup
+
+# 忽略其他可能的敏感文件（可选，防患于未然）
+*.key
+*.secret
+*.token
+
+# C/C++ 编译产物
+*.a
+*.o
+*.out
+*.so
+*.dll
 
 # Python 虚拟环境
 python/pyenv/
@@ -13,9 +22,8 @@ python/.env/
 
 # Python 缓存
 python/__pycache__/
-python/*.py[cod]
-python/*.class
-
+*.py[cod]
+*.class
 
 # 通用忽略
 .vscode/
@@ -23,3 +31,9 @@ python/*.class
 *.swo
 *.log
 *.bak
+
+# 忽略所有无后缀的可执行文件
+[!*.]*
+
+# 保护以下无后缀文件
+!README  
