@@ -1,12 +1,13 @@
 更新 不要直接使用vs code（龟速）
-（1）
 cd ~/cs-study
-git pull
-git acp "请填写"
-(2)
+git acp "请输入"
+
+含义
+# 1. 进入你的学习仓库目录
 cd ~/cs-study
-git pull
-git acpq
+# 2. 执行git acp + 提交备注（和原来一模一样）
+git acp "学习笔记：Python NumPy矩阵运算"
+# 3. 若本地无修改，执行后会提示“没有要提交的文件”，不影响远程
 
 
 验证同步

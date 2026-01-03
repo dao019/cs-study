@@ -15,8 +15,12 @@ alias rm='rm -i'                  # 删除时提示确认（重要：防止误�
 3
 # === 开启 Bash 命令自动补全（必备，按 Tab 补全命令/路径）===
 
-4
+4(已删除)
 # 1. 带自定义提交信息的别名：git acp "提交信息"
 git config --global alias.acp '!f() { git add . && git commit -m "$1" && git push; }; f'
 # 2. 快速同步别名：git acpq
 git config --global alias.acpq "!git add . && git commit -m 'Quick update: $(date +'%Y-%m-%d %H:%M')' && git push"
+
+5
+# 配置：add + commit + 安全强制推送（替换main为你的分支名，比如master）
+git config --global alias.acp '!git add . && git commit -m "$1" && git push --force-with-lease origin main'
