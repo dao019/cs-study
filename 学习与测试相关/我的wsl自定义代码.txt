@@ -23,4 +23,4 @@ git config --global alias.acpq "!git add . && git commit -m 'Quick update: $(dat
 
 5
 # 配置：add + commit + 安全强制推送（替换main为你的分支名，比如master）
-git config --global alias.acp '!git add . && git commit -m "$1" && git push --force-with-lease origin main'
+git config --global alias.acp '!f() { git add . && git commit -m "$1" && git push --force-with-lease origin main; }; f'
