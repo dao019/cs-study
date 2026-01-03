@@ -32,8 +32,11 @@ python/__pycache__/
 *.log
 *.bak
 
-# 忽略所有无后缀的可执行文件
-[!*.]*
+# 忽略无后缀的文件（中文可能导致误判，一同被忽略）
+c-cpp/[!*.]*
+python/[!*.]*
 
-# 保护以下无后缀文件
-!README  
+# 保护以下无后缀文件（!类型规则不递归）
+!README
+!c-cpp/README
+!python/README
