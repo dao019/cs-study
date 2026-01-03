@@ -16,9 +16,9 @@ bash_history*
 *.so
 *.dll
 
-# Python 虚拟环境
-python/pyenv/
-python/.env/
+# Python 虚拟环境（精确规则）
+python/pyenv/*
+python/.env/*
 
 # Python 缓存
 python/__pycache__/
@@ -32,11 +32,16 @@ python/__pycache__/
 *.log
 *.bak
 
-# 忽略无后缀的文件（中文可能导致误判，一同被忽略）
-c-cpp/*[!.]
+# （!类型规则不递归）（通配符规则）
+c-cpp/*
+!c-cpp/*/
+!c-cpp/*.*
 
+python/*
+!python/*/
+!python/*.*
 
-# 保护以下无后缀文件（!类型规则不递归）
+# 保护以下无后缀文件
 !README
 !c-cpp/README
 !python/README

@@ -9,6 +9,13 @@ cd ~/cs-study
 git acp "学习笔记：Python NumPy矩阵运算"
 # 3. 若本地无修改，执行后会提示“没有要提交的文件”，不影响远程
 
+查看本地工作区、暂存区与远程仓库的状态差异
+git status
+
+检查指定文件是否被  .gitignore  规则匹配（即是否被 Git 忽略）
+cd ~/cs-study
+git check-ignore -v c-cpp/hello.c
+
 
 清除 Git 缓存，重新跟踪被误忽略的文件（更新规则）
 cd ~/cs-study
