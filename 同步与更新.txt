@@ -10,11 +10,17 @@ git acp "学习笔记：Python NumPy矩阵运算"
 # 3. 若本地无修改，执行后会提示“没有要提交的文件”，不影响远程
 
 
-清除 Git 缓存，重新跟踪被误忽略的文件(更新规则)
+清除 Git 缓存，重新跟踪被误忽略的文件（更新规则）
 cd ~/cs-study
 # 清除 Git 的忽略缓存（让新规则生效）
 git rm -r --cached .
 # 重新暂存所有文件（此时中文 txt/md 不会被忽略）
+git add .
+
+cd ~/cs-study
+# 1. 强制清除 Git 缓存（关键：加 -f 解决冲突，--cached 保证不删工作区文件）
+git rm -r --cached -f .
+# 2. 重新暂存所有文件（此时 Git 会按新的 .gitignore 规则判断，中文 txt/md 不会被忽略）
 git add .
 
 手动推送
