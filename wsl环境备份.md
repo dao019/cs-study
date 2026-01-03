@@ -1,3 +1,4 @@
+# 安装参考：https://www.sysgeek.cn/install-wsl-2-windows/ 和ai即可
 # 一、备份 1：软件源配置文件备份（仅护源地址，极小体积）
 适用场景
 仅保护 /etc/apt/sources.list.d/ubuntu.sources 源配置文件，防止修改源时出错，与已安装软件无关。
