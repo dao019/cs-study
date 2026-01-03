@@ -10,6 +10,12 @@ git acp "学习笔记：Python NumPy矩阵运算"
 # 3. 若本地无修改，执行后会提示“没有要提交的文件”，不影响远程
 
 
+手动推送
+cd ~/cs-study
+# 安全强制推送本地 main 分支到远程
+git push --force-with-lease origin main
+
+
 验证同步
 git remote -v （ 无输出，说明远程已移除 ）
 
