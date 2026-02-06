@@ -69,13 +69,16 @@ wsl --import Ubuntu-24.04 D:\WSL\Ubuntu-24.04 D:\WSL-Backups\ubuntu-24.04-full-b
 ```powershell
 # 进入恢复的WSL实例
 wsl -d Ubuntu-24.04
-# 在WSL终端中执行（设置默认用户为dao）
+# 可省略。在WSL终端中执行（设置默认用户为dao）
 echo "[user]" | sudo tee -a /etc/wsl.conf
 echo "default=dao" | sudo tee -a /etc/wsl.conf
 # 退出并重启WSL
 exit
 wsl --shutdown
 ```
+
+### 步骤（4）添加wsl配置
+在C:\Users\29288下添加.wslconfig文件
 
 ## 4. 删除备份（仅当备份文件过多占用空间时）
 ```powershell
